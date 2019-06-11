@@ -1,5 +1,6 @@
 # bs2
 A dll for greeks calculations of the black-sholes model.
+https://en.wikipedia.org/wiki/Greeks_(finance)
 
 
 Calculate the black-sholes greeks in Excel.
